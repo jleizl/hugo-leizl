@@ -8,7 +8,7 @@ features = ["blog","responsive","personal","google analytics","portfolio","disqu
 min_version = "0.68.3"
 
 [params]
-    name = "WHOAMI? Hi! IAM <Leizl>"
+    name = "Jay Leizl Reyes"
     description = "Cloud Engineer and Entrepreneur"
     email = "jleizlreyes@gmail.com"
     phone = "09173264942"
@@ -24,7 +24,7 @@ min_version = "0.68.3"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = false
+    showRecentWorks = true
     showDownloads = false
     showClients = false
 

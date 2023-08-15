@@ -7,7 +7,7 @@ weight = 10
 
 Family Gala
 
-![about](./images/hk.jpg)
+![about](/images/hk.jpg)
 
 ### Hongkong
 
