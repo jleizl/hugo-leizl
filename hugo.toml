@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = https://ashy-tree-0c3f84f00.3.azurestaticapps.net"
 languageCode = "en"
 title = "Leizl Reyes - Hugo App"
 theme = "hugo-initio"
@@ -48,9 +48,6 @@ min_version = "0.68.3"
 [params.sharethis]
     property = "123456789012345678901234"
     custom = true
-
-[params.google.analytics]
-    trackerID = "GA-000000000-0"
 
 [[params.social]]
 	title = "facebook"
