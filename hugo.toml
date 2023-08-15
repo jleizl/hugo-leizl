@@ -24,9 +24,9 @@ min_version = "0.68.3"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
-    showDownloads = true
-    showClients = true
+    showRecentWorks = false
+    showDownloads = false
+    showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
