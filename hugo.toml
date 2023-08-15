@@ -1,4 +1,4 @@
-baseURL = https://ashy-tree-0c3f84f00.3.azurestaticapps.net"
+baseURL = "https://ashy-tree-0c3f84f00.3.azurestaticapps.net"
 languageCode = "en"
 title = "Leizl Reyes - Hugo App"
 theme = "hugo-initio"
